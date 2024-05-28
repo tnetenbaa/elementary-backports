@@ -10,8 +10,6 @@ This project aims to recreate features from the yet-to-release Elementary OS 8, 
 
 -New cursor theme
 
--New icons
-
 # How to Install
 
 ## Dock
